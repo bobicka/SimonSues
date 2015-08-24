@@ -1,2 +1,2 @@
 # SimonSues
-Project for all tings related to Simon Sues Comic
+Project for all things related to Simon Sues Comic
